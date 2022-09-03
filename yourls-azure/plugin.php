@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Azure OIDC
-Plugin URI: https://github.com/joshp23/YOURLS-OIDC
-Description: Enables OpenID Connect user authentication with Azure Active Directory
+Plugin Name: YOURLS Azure
+Plugin URI: https://github.com/frosttho/YOURLS-AZURE
+Description: Enables SAML user authentication with SimpleSAMLphp
 Version: 0.3.2
 Author: Josh Panter, Thomas Frost
 Author URI: https://ksg-media.de
